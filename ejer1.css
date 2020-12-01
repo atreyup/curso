@@ -1,0 +1,23 @@
+body
+{
+ background:#8EC0FE;
+ font-size:18px;
+ color:blue;
+ margin:30px;
+}
+
+ul
+{
+ list-style-type:square;
+}
+
+form
+{
+ border:1px solid #EDBD60;
+}
+
+input[type="submit"]
+{
+ background:#1668C4;
+ color:#fff;
+}
